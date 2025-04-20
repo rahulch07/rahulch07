@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulch07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="rahulch07" /></p>
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rahulch07&theme=transparent&hide_border=false" alt="rahulch07" /></p
+
+"Code is like humor. When you have to explain it, it’s bad."— Cory House
+
+Thanks for stopping by! Let’s build something amazing together. 🌟
